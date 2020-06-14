@@ -1,0 +1,95 @@
+h5{
+	font-family:Metal Mania;
+	font-size:50px;
+	color:pink;
+}
+.bg-dark{
+	background:rgba(0,0,0)!important;
+}
+.navbar-brand{
+	font-family: 'Dancing Script', cursive;
+	font-size:30px;
+}
+body{
+	
+	background-image:url(https://i.pinimg.com/originals/44/b2/53/44b253237c707d1c4230cdcee58808ee.jpg);
+}
+
+
+
+.flower{
+	width:200px;
+	height:200px;
+
+}
+
+
+	
+.flower:hover{
+	opacity:0.7;
+	
+}
+.but{
+	font-family:Sriracha;
+	font-size:30px;
+	background:transparent;
+	border:none;
+	margin:5%;
+	width:300px;
+	height:300px;
+	color:white;
+}
+
+.jumbotron{
+	background: none;
+	color:white;
+	font-family:Metal Mania;
+	text-align:center;
+	font-size:30px;
+	}
+
+#mark{
+  color:white;
+  text-align: center;
+  font-size:30px;
+  color:white;
+}
+.fa{ padding: 20px;
+  font-size: 60x;
+  width: 60px;
+  text-align:center;
+  margin: 5px 2px;
+
+}
+.fa:hover{
+	opacity:0.7;
+}
+}
+.fa-facebook{
+	background:none;
+	color:blue;
+}
+.fa-instagram{
+	background:none;
+	color:blue ;
+}
+.fa-youtube{
+	background:none;
+	color:blue;
+}
+.fa-twitter{
+	background:none;
+	color:blue;
+}
+.fa-linkedin{
+	background:none;
+	color:blue;
+}
+.carousel-inner
+{
+	margin:30px;
+	padding:60px;
+}
+#contact{
+	font-size: 30px;
+}
